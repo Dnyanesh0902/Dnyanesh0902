@@ -1,145 +1,62 @@
-# Hi 👋 I'm Dnyaneshwar Kokate
+# 🚀 Hello, I'm Dnyaneshwar Kokate
+### Backend & Systems Engineer | Specializing in .NET Core & Go (Golang)
 
-💻 Backend Developer | ASP.NET Core | Web API | Go (Golang) | React | SQL Server
+I am a dedicated Backend Engineer specializing in building secure, scalable, and high-performance RESTful APIs. With deep expertise in **ASP.NET Core (.NET 8)** and **Go (Golang)**, I build backend architectures that prioritize performance, security, and maintainability.
 
-I am passionate about building scalable backend applications using modern technologies like **.NET** and **Go**. I enjoy developing secure REST APIs, designing clean backend architectures, working with databases, and creating modern user interfaces with React.
-
-I continuously focus on improving my backend engineering skills by building real-world applications using **JWT Authentication**, **Clean Architecture**, **Repository Pattern**, **Docker**, and modern API development practices.
-
----
-
-# 🚀 Tech Stack
-
-## Backend
-
-- ASP.NET Core Web API
-- C#
-- Go (Golang)
-- Gin Framework
-- Entity Framework Core
-- GORM
-- SQL Server
-- PostgreSQL
-- JWT Authentication
-- Repository Pattern
-- Clean Architecture
-- RESTful APIs
+I am passionate about clean code, software design patterns, and engineering robust workflows that bridge database performance with modern backend logic.
 
 ---
 
-## Frontend
+## 📈 GitHub Overview
 
-- React JS
-- JavaScript (ES6+)
-- HTML5 & CSS3
-- REST API Integration
-
----
-
-## Tools & Technologies
-
-- Git & GitHub
-- Swagger / OpenAPI
-- Docker
-- Postman
-- VS Code
+<p align="left">
+  <a href="https://github.com/Dnyanesh0902">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Dnyanesh0902&show_icons=true&theme=dark&hide_border=true&bg_color=121212&title_color=00ADD8&icon_color=00ADD8&text_color=ffffff" alt="Dnyaneshwar's GitHub Stats" />
+  </a>
+  <a href="https://github.com/Dnyanesh0902">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnyanesh0902&layout=compact&theme=dark&hide_border=true&bg_color=121212&title_color=00ADD8&text_color=ffffff" alt="Top Languages" />
+  </a>
+</p>
 
 ---
 
-# 📌 Featured Projects
+## 🛠️ Technology Stack & Expertise
 
-## 1️⃣ Employee Management System API
-
-A secure RESTful API built using **ASP.NET Core (.NET 8)**.
-
-### Key Features
-
-- Repository Pattern
-- DTO + AutoMapper
-- JWT Authentication
-- Role-Based Authorization
-- Password Hashing
-- Global Exception Handling
-- Swagger Documentation
-
-🔗 Project Repository  
-[Empapi GitHub Repository](https://github.com/Dnyanesh0902/Empapi)
+| Area | Technologies |
+| :--- | :--- |
+| **Backend & APIs** | ASP.NET Core Web API, C#, Go (Golang), Gin Framework |
+| **ORM & Databases** | Entity Framework Core, GORM, Microsoft SQL Server, MySQL, PostgreSQL |
+| **Architectural Patterns** | Clean Architecture, Repository Pattern, N-Tier Architecture, SOLID Principles |
+| **Security & DevOps** | JWT Authentication, Role-Based Access Control (RBAC), bcrypt, Docker, Git/GitHub, Postman |
+| **Frontend** | React JS, JavaScript (ES6+), HTML5, CSS3, REST API Integration |
 
 ---
 
-## 2️⃣ Student Management System API (.NET)
+## 📌 Highlighted Projects
 
-A backend API developed using **ASP.NET Core Web API** to manage student records.
-
-### Features
-
-- CRUD Operations for Students
-- Entity Framework Core
-- SQL Server Database
-- RESTful API Design
-- Clean API Architecture
-
-🔗 Project Repository  
-[Studentapi GitHub Repository](https://github.com/Dnyanesh0902/Studentapi)
+| Project | Stack | Key Architectural Implementations | Link |
+| :--- | :--- | :--- | :---: |
+| **Dynamic Project Workflow** | Go, Gin, GORM, MySQL, AWS S3 | Multi-role approval engine (RM ➔ BH ➔ VH), AWS S3 file storage, rate limiters, wkhtmltopdf report exporter. | [View Repo](https://github.com/Dnyanesh0902/Dyanamic_project_workflow) |
+| **Go Student Management API** | Go, Gin, GORM, SQL Server | Repository Pattern, Clean Architecture directory rules, GORM hooks, custom authentication middleware, Bcrypt. | [View Repo](https://github.com/Dnyanesh0902/go-student-management-api) |
+| **Employee Management System** | .NET 8, Web API, EF Core | Repository Pattern implementation, DTO mapping with AutoMapper, Global Exception Handling middleware, Swagger/OpenAPI. | [View Repo](https://github.com/Dnyanesh0902/Empapi) |
+| **Student Management (.NET)** | .NET Core, SQL Server | Relational database normalization, LINQ querying optimization, EF Core migrations pipeline. | [View Repo](https://github.com/Dnyanesh0902/Studentapi) |
 
 ---
 
-## 3️⃣ Student Management API (Go + Gin + GORM)
+## 🎯 Current Engineering Focus
 
-A professional backend REST API project built using **Go (Golang)**, **Gin**, **GORM**, and **SQL Server** following **Clean Architecture** and **Repository Pattern**.
-
-### Key Features
-
-- JWT Authentication
-- Role-Based Authorization
-- Password Hashing using bcrypt
-- Middleware Implementation
-- DTO Validation
-- Repository Pattern
-- Service Layer Architecture
-- Logging Middleware
-- SQL Server Integration
-- Protected APIs
-
-### Technologies Used
-
-- Golang
-- Gin Framework
-- GORM
-- SQL Server
-- JWT
-- Docker
-
-🔗 Project Repository  
-[Go Student Management API](https://github.com/Dnyanesh0902/go-student-management-api)
+*   **System Scalability**: Exploring Microservices Architecture, distributed systems patterns, and event-driven architectures.
+*   **Caching & Optimization**: Integrating Redis for high-throughput database read operations.
+*   **CI/CD**: Automating build, test, and container deployment pipelines using GitHub Actions.
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect & Collaborate
 
-🌐 **Portfolio**  
-[Portfolio Website](https://dnyanesh.miracledevelopers.in/)
-
-💼 **LinkedIn**  
-[LinkedIn Profile](https://www.linkedin.com/in/dnyaneshwar-kokate-04a12b258)
-
-💻 **GitHub**  
-[GitHub Profile](https://github.com/Dnyanesh0902)
-
-📧 **Email**  
-dnyaneshwarkokatevip@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dnyaneshwar-kokate-04a12b258)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00ADD8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dnyanesh.miracledevelopers.in/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dnyaneshwarkokatevip@gmail.com)
 
 ---
 
-# 🎯 Currently Learning
-
-- Advanced Golang Backend Development
-- Microservices Architecture
-- Docker & Containerization
-- Redis Caching
-- CI/CD Pipelines
-- Scalable Backend System Design
-
----
-
-⭐ Passionate about Backend Development, API Design, and building scalable real-world applications using **.NET** and **Go**.
+*"Writing clean, readable, and highly maintainable code is not a preference; it is a standard."*
