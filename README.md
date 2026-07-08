@@ -1,9 +1,9 @@
 # 🚀 Hello, I'm Dnyaneshwar Kokate
 ### Backend & Systems Engineer | Specializing in .NET Core & Go (Golang)
 
-I am a dedicated Backend Engineer specializing in building secure, scalable, and high-performance RESTful APIs. With deep expertise in **ASP.NET Core (.NET 8)** and **Go (Golang)**, I build backend architectures that prioritize performance, security, and maintainability.
+I am a results-driven Backend and Systems Engineer dedicated to architecting secure, scalable, and high-throughput RESTful APIs and distributed services. Leveraging deep hands-on expertise in **ASP.NET Core (.NET 8)** and **Go (Golang)**, I build backend architectures that prioritize performance, structural maintainability, and clean separation of concerns.
 
-I am passionate about clean code, software design patterns, and engineering robust workflows that bridge database performance with modern backend logic.
+I am a strong advocate of **Clean Architecture**, **SOLID design principles**, and database tuning—consistently bridging complex enterprise workflow requirements with low-latency data access layers.
 
 ---
 
@@ -20,15 +20,16 @@ I am passionate about clean code, software design patterns, and engineering robu
 
 ---
 
-## 🛠️ Technology Stack & Expertise
+## 🛠️ Technology Stack & Competencies
 
-| Area | Technologies |
+| Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Backend & APIs** | ASP.NET Core Web API, C#, Go (Golang), Gin Framework |
-| **ORM & Databases** | Entity Framework Core, GORM, Microsoft SQL Server, MySQL, PostgreSQL |
-| **Architectural Patterns** | Clean Architecture, Repository Pattern, N-Tier Architecture, SOLID Principles |
-| **Security & DevOps** | JWT Authentication, Role-Based Access Control (RBAC), bcrypt, Docker, Git/GitHub, Postman |
-| **Frontend** | React JS, JavaScript (ES6+), HTML5, CSS3, REST API Integration |
+| **Backend & Systems** | Go (Golang), C# (.NET 8), ASP.NET Core Web API, Gin Web Framework |
+| **Databases & ORM** | SQL Server, MySQL, PostgreSQL, Entity Framework Core (EF Core), GORM, ADO.NET, T-SQL |
+| **Architecture & Patterns** | Clean Architecture, N-Tier Architecture, Repository & Unit of Work Patterns, SOLID Principles, OOP |
+| **Security & Protocols** | JWT Authentication, Role-Based Access Control (RBAC), Bcrypt Hashing, RESTful API Design |
+| **DevOps & Tooling** | Docker, Git/GitHub, Postman, Swagger/OpenAPI, CI/CD, AWS S3 Integration |
+| **Frontend** | React, JavaScript (ES6+), Angular, HTML5, CSS3, REST API Integration |
 
 ---
 
@@ -36,18 +37,18 @@ I am passionate about clean code, software design patterns, and engineering robu
 
 | Project | Stack | Key Architectural Implementations | Link |
 | :--- | :--- | :--- | :---: |
-| **Dynamic Project Workflow** | Go, Gin, GORM, MySQL, AWS S3 | Multi-role approval engine (RM ➔ BH ➔ VH), AWS S3 file storage, rate limiters, wkhtmltopdf report exporter. | [View Repo](https://github.com/Dnyanesh0902/Dyanamic_project_workflow) |
-| **Go Student Management API** | Go, Gin, GORM, SQL Server | Repository Pattern, Clean Architecture directory rules, GORM hooks, custom authentication middleware, Bcrypt. | [View Repo](https://github.com/Dnyanesh0902/go-student-management-api) |
-| **Employee Management System** | .NET 8, Web API, EF Core | Repository Pattern implementation, DTO mapping with AutoMapper, Global Exception Handling middleware, Swagger/OpenAPI. | [View Repo](https://github.com/Dnyanesh0902/Empapi) |
-| **Student Management (.NET)** | .NET Core, SQL Server | Relational database normalization, LINQ querying optimization, EF Core migrations pipeline. | [View Repo](https://github.com/Dnyanesh0902/Studentapi) |
+| **Dynamic Project Workflow** | Go, Gin, GORM, MySQL, AWS S3 | Developed a secure multi-role approval engine (RM ➔ BH ➔ VH) featuring rate limiters, AWS S3 storage integration, and an automated wkhtmltopdf report exporter. | [View Repo](https://github.com/Dnyanesh0902/Dyanamic_project_workflow) |
+| **Go Student Management API** | Go, Gin, GORM, SQL Server | Implemented Repository Pattern and Clean Architecture directory boundaries. Developed custom authentication middleware, Bcrypt hashing, and automated GORM database hooks. | [View Repo](https://github.com/Dnyanesh0902/go-student-management-api) |
+| **Employee Management System** | .NET 8, Web API, EF Core | Architected a decoupled backend using Repository Pattern, DTO mapping (AutoMapper), custom Global Exception Handling middleware, and Swagger OpenAPI contracts. | [View Repo](https://github.com/Dnyanesh0902/Empapi) |
+| **Student Management (.NET)** | .NET Core, SQL Server | Engineered a normalized relational database model in SQL Server, optimizing complex LINQ queries and establishing an EF Core schema migrations pipeline. | [View Repo](https://github.com/Dnyanesh0902/Studentapi) |
 
 ---
 
 ## 🎯 Current Engineering Focus
 
-*   **System Scalability**: Exploring Microservices Architecture, distributed systems patterns, and event-driven architectures.
-*   **Caching & Optimization**: Integrating Redis for high-throughput database read operations.
-*   **CI/CD**: Automating build, test, and container deployment pipelines using GitHub Actions.
+*   **Scalable Distributed Systems**: Deepening knowledge in Microservices Architecture, event-driven communication (RabbitMQ/Kafka), and container orchestration.
+*   **High-Performance Caching**: Integrating Redis to cache high-frequency database read queries and optimize response times.
+*   **CI/CD Automation**: Architecting build, test, and containerized deployment pipelines using GitHub Actions.
 
 ---
 
@@ -59,4 +60,4 @@ I am passionate about clean code, software design patterns, and engineering robu
 
 ---
 
-*"Writing clean, readable, and highly maintainable code is not a preference; it is a standard."*
+> *"Writing clean, readable, and highly maintainable code is not a preference; it is a standard."*
