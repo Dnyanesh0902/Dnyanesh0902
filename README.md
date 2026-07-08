@@ -20,7 +20,10 @@ I am a strong advocate of **Clean Architecture**, **SOLID design principles**, a
     <img src="https://img.shields.io/github/followers/Dnyanesh0902?style=for-the-badge&color=00ADD8&label=Followers&logo=github&logoColor=white" alt="Followers" />
   </a>
 </p>
+
+
 ---
+
 ## 🛠️ Technology Stack & Competencies
 
 | Domain | Technologies & Frameworks |
