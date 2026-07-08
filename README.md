@@ -9,12 +9,18 @@ I am a strong advocate of **Clean Architecture**, **SOLID design principles**, a
 
 ## 📈 GitHub Overview
 
-[![Dnyaneshwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dnyanesh0902&show_icons=true&theme=dark&hide_border=true&bg_color=121212&title_color=00ADD8&icon_color=00ADD8&text_color=ffffff)](https://github.com/Dnyanesh0902)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dnyanesh0902&layout=compact&theme=dark&hide_border=true&bg_color=121212&title_color=00ADD8&text_color=ffffff)](https://github.com/Dnyanesh0902)
-
-*(Note: If the stats cards do not load instantly, it may be due to temporary rate-limiting on the Vercel stats server. They will render once GitHub caches the assets.)*
+<p align="left">
+  <a href="https://github.com/Dnyanesh0902">
+    <img src="https://img.shields.io/github/repos/Dnyanesh0902?style=for-the-badge&color=00ADD8&label=Public%20Repositories&logo=github&logoColor=white" alt="Public Repositories" />
+  </a>
+  <a href="https://github.com/Dnyanesh0902">
+    <img src="https://img.shields.io/github/stars/Dnyanesh0902?style=for-the-badge&color=00ADD8&label=Total%20Stars&logo=github&logoColor=white" alt="Total Stars" />
+  </a>
+  <a href="https://github.com/Dnyanesh0902">
+    <img src="https://img.shields.io/github/followers/Dnyanesh0902?style=for-the-badge&color=00ADD8&label=Followers&logo=github&logoColor=white" alt="Followers" />
+  </a>
+</p>
 ---
-
 ## 🛠️ Technology Stack & Competencies
 
 | Domain | Technologies & Frameworks |
