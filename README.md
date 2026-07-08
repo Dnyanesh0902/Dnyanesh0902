@@ -17,6 +17,7 @@ I am a strong advocate of **Clean Architecture**, **SOLID design principles**, a
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnyanesh0902&layout=compact&theme=nord&hide_border=true&bg_color=0f172a&title_color=00ADD8&text_color=e2e8f0" alt="Top Languages" width="49%" />
   </a>
 </p>
+---
 
 ### 📊 Live Repository Metrics
 
