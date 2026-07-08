@@ -9,21 +9,22 @@ I am a strong advocate of **Clean Architecture**, **SOLID design principles**, a
 
 ## 📈 GitHub Overview
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/Dnyanesh0902">
-    <img src="https://img.shields.io/github/repos/Dnyanesh0902?style=for-the-badge&color=00ADD8&label=Public%20Repositories&logo=github&logoColor=white" alt="Public Repositories" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Dnyanesh0902&show_icons=true&theme=nord&hide_border=true&bg_color=0f172a&title_color=00ADD8&icon_color=00ADD8&text_color=e2e8f0" alt="Dnyaneshwar's GitHub Stats" width="49%" />
   </a>
   <a href="https://github.com/Dnyanesh0902">
-    <img src="https://img.shields.io/github/stars/Dnyanesh0902?style=for-the-badge&color=00ADD8&label=Total%20Stars&logo=github&logoColor=white" alt="Total Stars" />
-  </a>
-  <a href="https://github.com/Dnyanesh0902">
-    <img src="https://img.shields.io/github/followers/Dnyanesh0902?style=for-the-badge&color=00ADD8&label=Followers&logo=github&logoColor=white" alt="Followers" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnyanesh0902&layout=compact&theme=nord&hide_border=true&bg_color=0f172a&title_color=00ADD8&text_color=e2e8f0" alt="Top Languages" width="49%" />
   </a>
 </p>
 
+### 📊 Live Repository Metrics
+
+| 📂 Repositories | ⭐ Total Stars | 👥 Followers |
+| :---: | :---: | :---: |
+| [![Repos](https://img.shields.io/github/repos/Dnyanesh0902?style=flat-square&color=00ADD8)](https://github.com/Dnyanesh0902) | [![Stars](https://img.shields.io/github/stars/Dnyanesh0902?style=flat-square&color=FFD700)](https://github.com/Dnyanesh0902) | [![Followers](https://img.shields.io/github/followers/Dnyanesh0902?style=flat-square&color=1E90FF)](https://github.com/Dnyanesh0902) |
 
 ---
-
 ## 🛠️ Technology Stack & Competencies
 
 | Domain | Technologies & Frameworks |
